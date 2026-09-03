@@ -181,4 +181,44 @@ theorem mass_gap_element_Q_RH_eq_one :
   (try norm_num) <;>
   (try linarith)
 
+/-- Prove that the God force property is equivalent to Q_RH = 1 for RHData. -/
+theorem god_force_iff_Q_RH_eq_one {a : UniversalSingularity.RiemannHypothesis.RHData} :
+    GodForce RHData a ↔ a.Q_RH = 1 := by
+  constructor
+  · -- Forward direction: GodForce RHData a → a.Q_RH = 1
+    intro h
+    have h₁ : ¬VirtualSectorPred a := h.1
+    have h₂ : ¬PhysicalSectorPred a := h.2
+    have h₃ : ¬(a.Q_RH > 1) := by
+      simpa [VirtualSectorPred] using h₁
+    have h₄ : ¬(a.Q_RH < 1) := by
+      simpa [PhysicalSectorPred] using h₂
+    have h₅ : a.Q_RH ≤ 1 := by
+      by_contra h
+      -- If Q_RH > 1, then we have a contradiction with h₃
+      have h₅₁ : a.Q_RH > 1 := by linarith
+      exact h₃ h₅₁
+    have h₆ : a.Q_RH ≥ 1 := by
+      by_contra h
+      -- If Q_RH < 1, then we have a contradiction with h₄
+      have h₆₁ : a.Q_RH < 1 := by linarith
+      exact h₄ h₆₁
+    -- Having both Q_RH ≤ 1 and Q_RH ≥ 1 implies Q_RH = 1
+    have h₇ : a.Q_RH = 1 := by linarith
+    exact h₇
+  · -- Reverse direction: a.Q_RH = 1 → GodForce RHData a
+    intro h
+    have h₁ : a.Q_RH = 1 := h
+    have h₂ : ¬(a.Q_RH > 1) := by
+      rw [h₁]
+      norm_num
+    have h₃ : ¬(a.Q_RH < 1) := by
+      rw [h₁]
+      norm_num
+    have h₄ : ¬VirtualSectorPred a := by
+      simpa [VirtualSectorPred] using h₂
+    have h₅ : ¬PhysicalSectorPred a := by
+      simpa [PhysicalSectorPred] using h₃
+    exact ⟨h₄, h₅⟩
+
 end UniversalSingularity.MassGap
