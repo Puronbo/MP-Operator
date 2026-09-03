@@ -1,0 +1,12 @@
+import Lake
+import Lake.Pkg
+
+name := "universal-singularity"
+version := "0.1.0"
+license := "MIT"
+dependencies := [
+  Mathlib
+]
+
+package pkg with
+  { name, version, license, dependencies }

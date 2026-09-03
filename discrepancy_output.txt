@@ -1,0 +1,11 @@
+Computing first 5000 zeros of zeta(s)...
+Total zeros in list: 10000
+x values: [10, 100, 1000, 10000, 100000]
+Traceback (most recent call last):
+  File [35m"C:\Users\Me\Desktop\Mama mo gobyerno\fcc2\discrepancy.py"[0m, line [35m43[0m, in [35m<module>[0m
+    S1, S2 = [31mcompute_sums[0m[1;31m(zeros, x_vals)[0m
+             [31m~~~~~~~~~~~~[0m[1;31m^^^^^^^^^^^^^^^[0m
+  File [35m"C:\Users\Me\Desktop\Mama mo gobyerno\fcc2\discrepancy.py"[0m, line [35m20[0m, in [35mcompute_sums[0m
+    [1;31mS1[i] +[0m= term1
+    [1;31m^^^^^^^[0m
+[1;35mnumpy._core._exceptions._UFuncOutputCastingError[0m: [35mCannot cast ufunc 'add' output from dtype('O') to dtype('complex128') with casting rule 'same_kind'[0m

@@ -1,0 +1,16 @@
+{
+  "UniversalSingularity.NS_Q_lt_one_stable": "UniversalSingularity.NS_Q_lt_one_stable",
+  "UniversalSingularity.NS_Q_gt_one_unstable": "UniversalSingularity.NS_Q_gt_one_unstable",
+  "UniversalSingularity.YM_Q_lt_one_stable": "UniversalSingularity.YM_Q_lt_one_stable",
+  "UniversalSingularity.YM_Q_gt_one_unstable": "UniversalSingularity.YM_Q_gt_one_unstable",
+  "UniversalSingularity.BS_Q_lt_one_stable": "UniversalSingularity.BS_Q_lt_one_stable",
+  "UniversalSingularity.BS_Q_gt_one_unstable": "UniversalSingularity.BS_Q_gt_one_unstable",
+  "UniversalSingularity.POC_Q_lt_one_stable": "UniversalSingularity.POC_Q_lt_one_stable",
+  "UniversalSingularity.POC_Q_ge_one_unstable": "UniversalSingularity.POC_Q_ge_one_unstable",
+  "UniversalSingularity.SAT_Q_lt_one_stable": "UniversalSingularity.SAT_Q_lt_one_stable",
+  "UniversalSingularity.SAT_Q_ge_one_unstable": "UniversalSingularity.SAT_Q_ge_one_unstable",
+  "UniversalSingularity.HODGE_Q_lt_one_stable": "UniversalSingularity.HODGE_Q_lt_one_stable",
+  "UniversalSingularity.HODGE_Q_ge_one_unstable": "UniversalSingularity.HODGE_Q_ge_one_unstable",
+  "UniversalSingularity.RH_Q_lt_one_stable": "UniversalSingularity.RH_Q_lt_one_stable",
+  "UniversalSingularity.RH_Q_ge_one_unstable": "UniversalSingularity.RH_Q_ge_one_unstable"
+}

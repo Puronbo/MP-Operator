@@ -1,0 +1,35 @@
+Enhanced YM.lean file written at C:\Users\Me\Desktop\Mama mo gobyerno\fcc2\YM.lean
+
+Summary of enhancements:
+
+1. Extended YMField structure with:
+   - instantonNumber : ℤ
+   - thetaAngle : ℝ
+   - gluonCondensate : ℝ
+   - monopoleMass : ℝ
+   - dyonCharge : ℝ
+   - spectralGenus : ℕ
+
+2. Refined Q_YM definition to include corrections from instanton number, theta angle, gluon condensate, monopole mass, dyon charge, and spectral genus.
+
+3. Added phase distinction predicates:
+   - ConfiningPhase (massGap > 0 ∧ stringTension > 0)
+   - HiggsPhase (massGap > 0 ∧ stringTension = 0)
+   - ConformalPhase (massGap = 0 ∧ beta0 = 0)
+   - FreePhotonPhase (massGap = 0 ∧ stringTension = 0 ∧ beta0 > 0) [placeholder]
+
+4. New axioms connecting phases and other quantities to stability/instability:
+   - confining_phase_implies_Q_yM_lt_one
+   - higgs_phase_implies_Q_yM_lt_one
+   - conformal_phase_implies_Q_yM_ge_one
+   - free_photon_phase_implies_Q_yM_ge_one
+   - instanton_theta_effect (small instanton-theta term → Q_YM < 1)
+   - gluon_condensate_mass_gap (large gluon condensate → massGap > 0)
+   - monopole_condensation (small monopole mass → massGap > 0)
+   - spectral_genus_zero (zero spectral genus → massGap > 0)
+
+5. Derived theorems (marked sorry) that follow from the axioms.
+
+All axioms and theorems are marked with `sorry` as required.
+
+The file is ready for further axiomatic exploration.

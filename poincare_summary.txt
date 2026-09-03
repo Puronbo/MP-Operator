@@ -1,0 +1,38 @@
+CONCISE RESEARCH DIRECTIONS FOR POINCARE.LEAN SORRY STATEMENTS
+(Zero-as-condition perspective)
+
+1. stable_if_Q_P_lt_one
+   - Zero-condition: balance where stabilizing (entropy, volume) = destabilizing (curvature, surgery)
+   - Insight needed: explicit entropy-curvature inequality guaranteeing spherical convergence
+   - Action: Prove entropy ≥ K·(‖Rm‖_{L²}² + surgery_rate) implies Q_P < 1 → S³
+   - Connection: Perelman's pseudolocality + finite time extinction for spherical 3-manifolds
+
+2. unstable_if_Q_P_ge_one
+   - Zero-condition: threshold where destabilizing effects begin to dominate
+   - Insight needed: quantitative entropy deficit triggering non-spherical outcomes
+   - Action: Find explicit C such that entropy < C·(‖Rm‖_{L²}² + surgery_rate) ⇒ Q_P > 1
+   - Connection: Canonical neighborhood theorem classifying ε-necks requiring surgery
+
+3. noncollapsing_controls_curvature
+   - Zero-condition: non-collapsing (reducedVolume > 0.1) controls curvature concentration
+   - Insight needed: reduced volume implies entropy lower bound preventing Q_P blowup
+   - Action: Prove reducedVolume > δ ⇒ entropy > c(δ) > 0, then with bounded curvature ⇒ Q_P < 2
+   - Connection: Perelman's non-local collapsing theorem preventing neck-like singularities
+
+4. canonical_neighborhoods_control_flow
+   - Zero-condition: high entropy (>10) + limited surgery (<100) stabilizes flow
+   - Insight needed: entropy dominates curvature/surgery terms in canonical neighborhoods
+   - Action: Prove entropy > C₁·(scalarCurvatureIntegral + surgCount) + C₂ ⇒ Q_P < 1
+   - Connection: Canonical neighborhood theorem geometry (ε-necks/C-components) controlled by entropy
+
+DERIVED THEOREMS INSIGHTS:
+- Q_P_lt_one/implies_spherical: Same as #1 - entropy-curvature inequality for spherical convergence
+- Q_P_ge_one/implies_nonspherical: Same as #2 - entropy deficit for non-spherical outcomes
+- entropy_monotonicity: Zero = gradient shrinking soliton (dW/dt=0); Insight: Perelman's second variation formula
+- reduced_volume_noncollapsing: Zero = volume ratio collapse; Insight: Ṽ(τ₀) > δ ⇒ Ṽ(τ) ≥ δ·exp(-C·√τ)
+
+NUMERICAL EXPLORATION WITH USER DATA:
+- Digit set {0,1,2,2,6} + timestamp 972555980 → permutation 10212
+- Use to test threshold hypotheses: assign geometric quantities from digits/timestamp
+- Example: For stability, need entropy large enough to overcome curvature/surgery terms
+- Vary timestamp to simulate flow evolution and track Q_P threshold crossings

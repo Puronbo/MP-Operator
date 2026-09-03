@@ -1,0 +1,65 @@
+# Lean 4 build artifacts
+.lake/
+*.olean
+*.O
+*.asm
+*.c
+*.cpp
+*.h
+*.hh
+*.o
+*.so
+*.dll
+*.exe
+
+# Dependency directories
+_deps/
+build/
+dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Compiled Lean files (if checking in generated code is not desired)
+# Uncomment if you want to ignore all .olean files
+# **/*.olean
+
+# Cache directories
+__pycache__/
+.cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.cache
+.mypy_cache
+.hypothesis
+.pytest_cache
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.env.*
+!env.example
+
+# Documentation builds
+docs/_build/
+site//.lake

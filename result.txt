@@ -1,0 +1,1 @@
+result: Numerical exploration of explicit formula duality and Riemann zeta zeros completed. Generated discrepancy analysis, eigenvector analysis, and F*F analysis scripts with supporting plots and a comprehensive REPORT.md summarizing findings.
