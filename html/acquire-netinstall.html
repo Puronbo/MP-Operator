@@ -1,0 +1,132 @@
+<!-- $Id: header.html,v 1.3 2025/07/14 17:33:41 karl Exp $ -->
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="/tugstyle.css">
+
+<meta name="color-scheme" content="light dark">
+<style>
+@media (prefers-color-scheme: dark) {
+  *, *::before, *::after {
+    background-color: revert !important;
+    color: revert !important;
+ }
+}
+</style>
+<!-- end header -->
+
+<!-- $Id: acquire-netinstall.html,v 1.48 2026/03/01 22:25:16 karl Exp $ -->
+<title>Installing TeX Live over the Internet - TeX Users Group</title>
+</head><body>
+
+<h2>Installing TeX Live over the Internet</h2>
+
+<p>TeX Live 2026 was released on March 1, 2026.
+
+<p>For typical needs, we recommend starting the TeX Live installation by
+downloading (these links go to mirrors) <a
+href="https://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe">install-tl-windows.exe</a>
+for Windows (~20mb), or <a
+href="https://mirror.ctan.org/systems/texlive/tlnet/install-tl-unx.tar.gz">install-tl-unx.tar.gz</a>
+(~5mb) for everything else.  There is also a zip archive <a
+href="https://mirror.ctan.org/systems/texlive/tlnet/install-tl.zip">install-tl.zip</a>
+(~25mb) which is the same as the <tt>.exe</tt>.  Although the .zip
+archive works fine on all platforms, the .tar.gz is much smaller, since
+it omits installation support programs needed only on Windows.  The
+archives are otherwise identical.
+
+<p>The above links use the <a href="https://ctan.org/mirrors">generic
+mirror.ctan.org url</a> which autoredirects to a CTAN mirror that should
+be reasonably nearby and reasonably up to date. However, perfect
+synchronization is not possible; if you have troubles following the
+links, your best bet is to replace the <tt>mirror.ctan.org</tt> in the
+above urls with a specific host from the <a
+href="https://ctan.org/mirrors/mirmon">list of CTAN mirrors</a>.
+
+<p>After downloading the files, you can <a href="verify.html">verify our
+GPG signature</a> if you wish.
+
+<p>After unpacking the archive, change to the resulting
+<tt>install-tl-*</tt> subdirectory.  Then follow the <a
+href="quickinstall.html">quick installation instructions</a> or <a
+href="doc/texlive-en/texlive-en.html">read the documentation</a>.
+
+<p id="netlwp"><b>Perl LWP</b>: For regular installations via download,
+we highly recommend installing the LWP Perl bundle if you don't have it
+(check for a file named <tt>LWP/UserAgent.pm</tt>). Any reasonable
+version of LWP available either from your operating system distribution
+(package name for Red Hat-ish systems: perl-libwww-perl) or the original
+<a href="https://metacpan.org/pod/LWP">from CPAN</a> should be fine for
+TL. Having it will greatly speed the downloads, compared to using the
+fallback curl or wget programs. On Windows, the TL-provided Perl already
+includes it, so usually nothing extra need be done there.
+
+<p><b>Proxies</b>: if you need to download through proxies, use a
+<tt>~/.wgetrc</tt> file or environment variables with the <a
+href="https://www.gnu.org/software/wget/manual/html_node/Proxies.html">proxy
+settings for wget</a>, or the equivalent for other download methods.
+
+<p><b>Pausing the install</b>: this will download thousands of packages,
+and will take quite some time (probably hours) to run. If you need to
+pause the installation, hopefully you can do in the usual way with your
+system, e.g., closing the lid on your laptop. At the end, the installer
+will retry downloading any packages that failed to download the first
+time.
+
+<p><b>Mirroring alternative</b>: If you have trouble with the installer
+downloading every package individually, you might find it more reliable
+to <a href="acquire-mirror.html">mirror TeX Live</a> to a local
+directory and then install from that.
+
+<p><b>Current versions</b>: with this network-based installation method,
+what gets installed is the currently available versions of packages and
+programs. This is in contrast to <a href="acquire.html">other
+installation methods</a>, which are kept stable between public releases
+(except for mirroring). <a href="pkginstall.html">Continuing package
+updates</a> can be done with <a href="tlmgr.html">tlmgr</a>.
+
+<p><b>Sources</b>: the live network installation does not include the
+hundreds of megabytes of sources for the compiled programs. The <a
+href="https://mirror.ctan.org/systems/texlive/Source/">sources for the
+current release</a> are on CTAN, and <a href="/historic/">historical
+releases are also available</a> (under systems/texlive; both the initial
+release each year, and the frozen state at the end of the cycle in
+<tt>tlnet-final</tt>), and <a
+href="/svn/texlive/trunk/Master/source/">current development sources are
+in the repository</a>.
+
+<hr>
+<a href="https://www.dante.de/installation-von-tex-live-unter-windows/"
+>Deutsche
+Informationen zur TeX-Live-Installation unter Windows</a>.
+
+<small>
+<p>Information about <a href="acquire-mirror.html">mirroring
+the TeX Live archive repository</a> is available separately, as well as
+<a href="acquire.html">other ways to acquire TeX Live</a>.
+</small>
+
+<hr><small>$Date: 2026/03/01 22:25:16 $;
+<a href="index.html">TeX Live</a>;</small>
+<!-- $Id: footer.html,v 1.32 2025/12/01 23:17:50 karl Exp $ (generic footer) -->
+<!-- <form method=get action="//duckduckgo.com/"> -->
+<small>
+  <a href="/index.html">TUG home page</a>;
+  <a href="/join.html">join TUG/renew membership</a>;
+  <a href="mailto:webmaster@tug.org">webmasters</a>;
+  <a href="https://www.facebook.com/groups/TeXUsersGroup">facebook</a>;
+  <a href="https://x.com/texusersgroup">x</a>;
+  <a href="https://bsky.app/profile/texusersgroup.bsky.social">bluesky</a>;
+  <a href="https://techhub.social/@TeXUsersGroup">mastodon</a>.
+<!-- &nbsp;
+   <input type="hidden" name="sites" value="tug.org">
+   <input name=q size=13 maxlength=99
+  ><input type=submit value="Search tug.org">
+   (via&nbsp;<a href="https://duckduckgo.com/">DuckDuckGo</a>)
+</form>
+-->
+</small>
+</body></html>
+<!-- end footer -->
+
