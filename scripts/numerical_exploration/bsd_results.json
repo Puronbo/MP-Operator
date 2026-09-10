@@ -1,0 +1,2898 @@
+{
+  "digits": [
+    0,
+    1,
+    2,
+    2,
+    6
+  ],
+  "timestamp": 972555980,
+  "schemes": {
+    "Scheme A (inspired by BSD structure)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "perm_num": 10226,
+        "N": 10,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.18181818181818182,
+        "Q_BSD": 1.1818181818181819,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "perm_num": 10262,
+        "N": 10,
+        "r": 10,
+        "L0": 1.1,
+        "normalizedValue": 0.9090909090909091,
+        "Q_BSD": 0.09090909090909094,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "perm_num": 10622,
+        "N": 10,
+        "r": 10,
+        "L0": 1.1,
+        "normalizedValue": 0.9090909090909091,
+        "Q_BSD": 0.09090909090909094,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 12026,
+        "N": 12,
+        "r": -6,
+        "L0": 1.1,
+        "normalizedValue": -0.45454545454545453,
+        "Q_BSD": 1.4545454545454546,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 12062,
+        "N": 12,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.1515151515151515,
+        "Q_BSD": 1.1515151515151514,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 12206,
+        "N": 12,
+        "r": -6,
+        "L0": 1.1,
+        "normalizedValue": -0.45454545454545453,
+        "Q_BSD": 1.4545454545454546,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 12260,
+        "N": 12,
+        "r": 12,
+        "L0": 1.1,
+        "normalizedValue": 0.9090909090909091,
+        "Q_BSD": 0.09090909090909094,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 12602,
+        "N": 12,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.1515151515151515,
+        "Q_BSD": 1.1515151515151514,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 12620,
+        "N": 12,
+        "r": 12,
+        "L0": 1.1,
+        "normalizedValue": 0.9090909090909091,
+        "Q_BSD": 0.09090909090909094,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 16022,
+        "N": 16,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.11363636363636363,
+        "Q_BSD": 1.1136363636363635,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 16202,
+        "N": 16,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.11363636363636363,
+        "Q_BSD": 1.1136363636363635,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 16220,
+        "N": 16,
+        "r": 4,
+        "L0": 1.1,
+        "normalizedValue": 0.22727272727272727,
+        "Q_BSD": 0.7727272727272727,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "perm_num": 20126,
+        "N": 20,
+        "r": -4,
+        "L0": 1.1,
+        "normalizedValue": -0.18181818181818182,
+        "Q_BSD": 1.1818181818181819,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "perm_num": 20162,
+        "N": 20,
+        "r": 4,
+        "L0": 1.1,
+        "normalizedValue": 0.18181818181818182,
+        "Q_BSD": 0.8181818181818181,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "perm_num": 20216,
+        "N": 20,
+        "r": -4,
+        "L0": 1.1,
+        "normalizedValue": -0.18181818181818182,
+        "Q_BSD": 1.1818181818181819,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "perm_num": 20261,
+        "N": 20,
+        "r": 11,
+        "L0": 1.1,
+        "normalizedValue": 0.5,
+        "Q_BSD": 0.5,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "perm_num": 20612,
+        "N": 20,
+        "r": 4,
+        "L0": 1.1,
+        "normalizedValue": 0.18181818181818182,
+        "Q_BSD": 0.8181818181818181,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "perm_num": 20621,
+        "N": 20,
+        "r": 11,
+        "L0": 1.1,
+        "normalizedValue": 0.5,
+        "Q_BSD": 0.5,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 21026,
+        "N": 21,
+        "r": -6,
+        "L0": 1.1,
+        "normalizedValue": -0.2597402597402597,
+        "Q_BSD": 1.2597402597402598,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 21062,
+        "N": 21,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.08658008658008658,
+        "Q_BSD": 1.0865800865800865,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 21206,
+        "N": 21,
+        "r": -6,
+        "L0": 1.1,
+        "normalizedValue": -0.2597402597402597,
+        "Q_BSD": 1.2597402597402598,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 21260,
+        "N": 21,
+        "r": 12,
+        "L0": 1.1,
+        "normalizedValue": 0.5194805194805194,
+        "Q_BSD": 0.48051948051948057,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 21602,
+        "N": 21,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.08658008658008658,
+        "Q_BSD": 1.0865800865800865,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 21620,
+        "N": 21,
+        "r": 12,
+        "L0": 1.1,
+        "normalizedValue": 0.5194805194805194,
+        "Q_BSD": 0.48051948051948057,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "perm_num": 22016,
+        "N": 22,
+        "r": -6,
+        "L0": 1.1,
+        "normalizedValue": -0.24793388429752064,
+        "Q_BSD": 1.2479338842975207,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "perm_num": 22061,
+        "N": 22,
+        "r": -1,
+        "L0": 1.1,
+        "normalizedValue": -0.04132231404958677,
+        "Q_BSD": 1.0413223140495869,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "perm_num": 22106,
+        "N": 22,
+        "r": -6,
+        "L0": 1.1,
+        "normalizedValue": -0.24793388429752064,
+        "Q_BSD": 1.2479338842975207,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "perm_num": 22160,
+        "N": 22,
+        "r": 6,
+        "L0": 1.1,
+        "normalizedValue": 0.24793388429752064,
+        "Q_BSD": 0.7520661157024794,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "perm_num": 22601,
+        "N": 22,
+        "r": -1,
+        "L0": 1.1,
+        "normalizedValue": -0.04132231404958677,
+        "Q_BSD": 1.0413223140495869,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "perm_num": 22610,
+        "N": 22,
+        "r": 6,
+        "L0": 1.1,
+        "normalizedValue": 0.24793388429752064,
+        "Q_BSD": 0.7520661157024794,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 26012,
+        "N": 26,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.06993006993006992,
+        "Q_BSD": 1.06993006993007,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 26021,
+        "N": 26,
+        "r": -1,
+        "L0": 1.1,
+        "normalizedValue": -0.03496503496503496,
+        "Q_BSD": 1.034965034965035,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 26102,
+        "N": 26,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.06993006993006992,
+        "Q_BSD": 1.06993006993007,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 26120,
+        "N": 26,
+        "r": 2,
+        "L0": 1.1,
+        "normalizedValue": 0.06993006993006992,
+        "Q_BSD": 0.9300699300699301,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 26201,
+        "N": 26,
+        "r": -1,
+        "L0": 1.1,
+        "normalizedValue": -0.03496503496503496,
+        "Q_BSD": 1.034965034965035,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 26210,
+        "N": 26,
+        "r": 2,
+        "L0": 1.1,
+        "normalizedValue": 0.06993006993006992,
+        "Q_BSD": 0.9300699300699301,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "perm_num": 60122,
+        "N": 60,
+        "r": 0,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "perm_num": 60212,
+        "N": 60,
+        "r": 0,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "perm_num": 60221,
+        "N": 60,
+        "r": 3,
+        "L0": 1.1,
+        "normalizedValue": 0.045454545454545456,
+        "Q_BSD": 0.9545454545454546,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 61022,
+        "N": 61,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.029806259314456032,
+        "Q_BSD": 1.0298062593144561,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 61202,
+        "N": 61,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.029806259314456032,
+        "Q_BSD": 1.0298062593144561,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 61220,
+        "N": 61,
+        "r": 4,
+        "L0": 1.1,
+        "normalizedValue": 0.059612518628912065,
+        "Q_BSD": 0.940387481371088,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 62012,
+        "N": 62,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.029325513196480937,
+        "Q_BSD": 1.029325513196481,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 62021,
+        "N": 62,
+        "r": -1,
+        "L0": 1.1,
+        "normalizedValue": -0.014662756598240468,
+        "Q_BSD": 1.0146627565982405,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 62102,
+        "N": 62,
+        "r": -2,
+        "L0": 1.1,
+        "normalizedValue": -0.029325513196480937,
+        "Q_BSD": 1.029325513196481,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 62120,
+        "N": 62,
+        "r": 2,
+        "L0": 1.1,
+        "normalizedValue": 0.029325513196480937,
+        "Q_BSD": 0.9706744868035191,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 62201,
+        "N": 62,
+        "r": -1,
+        "L0": 1.1,
+        "normalizedValue": -0.014662756598240468,
+        "Q_BSD": 1.0146627565982405,
+        "rankDeficit": true,
+        "rankExcess": false,
+        "criticalPoint": false,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 62210,
+        "N": 62,
+        "r": 2,
+        "L0": 1.1,
+        "normalizedValue": 0.029325513196480937,
+        "Q_BSD": 0.9706744868035191,
+        "rankDeficit": false,
+        "rankExcess": true,
+        "criticalPoint": false,
+        "stable": true,
+        "unstable": false
+      }
+    ],
+    "Scheme B (3+2 split)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "perm_num": 10226,
+        "N": 102,
+        "r": 26,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "perm_num": 10262,
+        "N": 102,
+        "r": 62,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "perm_num": 10622,
+        "N": 106,
+        "r": 22,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 12026,
+        "N": 120,
+        "r": 26,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 12062,
+        "N": 120,
+        "r": 62,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 12206,
+        "N": 122,
+        "r": 6,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 12260,
+        "N": 122,
+        "r": 60,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 12602,
+        "N": 126,
+        "r": 2,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 12620,
+        "N": 126,
+        "r": 20,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 16022,
+        "N": 160,
+        "r": 22,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 16202,
+        "N": 162,
+        "r": 2,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 16220,
+        "N": 162,
+        "r": 20,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "perm_num": 20126,
+        "N": 201,
+        "r": 26,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "perm_num": 20162,
+        "N": 201,
+        "r": 62,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "perm_num": 20216,
+        "N": 202,
+        "r": 16,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "perm_num": 20261,
+        "N": 202,
+        "r": 61,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "perm_num": 20612,
+        "N": 206,
+        "r": 12,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "perm_num": 20621,
+        "N": 206,
+        "r": 21,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 21026,
+        "N": 210,
+        "r": 26,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 21062,
+        "N": 210,
+        "r": 62,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 21206,
+        "N": 212,
+        "r": 6,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 21260,
+        "N": 212,
+        "r": 60,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 21602,
+        "N": 216,
+        "r": 2,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 21620,
+        "N": 216,
+        "r": 20,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "perm_num": 22016,
+        "N": 220,
+        "r": 16,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "perm_num": 22061,
+        "N": 220,
+        "r": 61,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "perm_num": 22106,
+        "N": 221,
+        "r": 6,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "perm_num": 22160,
+        "N": 221,
+        "r": 60,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "perm_num": 22601,
+        "N": 226,
+        "r": 1,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "perm_num": 22610,
+        "N": 226,
+        "r": 10,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 26012,
+        "N": 260,
+        "r": 12,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 26021,
+        "N": 260,
+        "r": 21,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 26102,
+        "N": 261,
+        "r": 2,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 26120,
+        "N": 261,
+        "r": 20,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 26201,
+        "N": 262,
+        "r": 1,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 26210,
+        "N": 262,
+        "r": 10,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "perm_num": 60122,
+        "N": 601,
+        "r": 22,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "perm_num": 60212,
+        "N": 602,
+        "r": 12,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "perm_num": 60221,
+        "N": 602,
+        "r": 21,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 61022,
+        "N": 610,
+        "r": 22,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 61202,
+        "N": 612,
+        "r": 2,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 61220,
+        "N": 612,
+        "r": 20,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 62012,
+        "N": 620,
+        "r": 12,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 62021,
+        "N": 620,
+        "r": 21,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 62102,
+        "N": 621,
+        "r": 2,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 62120,
+        "N": 621,
+        "r": 20,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 62201,
+        "N": 622,
+        "r": 1,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 62210,
+        "N": 622,
+        "r": 10,
+        "L0": 0.0,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      }
+    ],
+    "Scheme C (timestamp-based)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "perm_num": 10226,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "perm_num": 10262,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "perm_num": 10622,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 12026,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 12062,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 12206,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 12260,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 12602,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 12620,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 16022,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 16202,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 16220,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "perm_num": 20126,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "perm_num": 20162,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "perm_num": 20216,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "perm_num": 20261,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "perm_num": 20612,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "perm_num": 20621,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 21026,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 21062,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 21206,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 21260,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 21602,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 21620,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "perm_num": 22016,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "perm_num": 22061,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "perm_num": 22106,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "perm_num": 22160,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "perm_num": 22601,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "perm_num": 22610,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 26012,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 26021,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 26102,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 26120,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 26201,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 26210,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "perm_num": 60122,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "perm_num": 60212,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "perm_num": 60221,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 61022,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 61202,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 61220,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 62012,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 62021,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 62102,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 62120,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 62201,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 62210,
+        "N": 0,
+        "r": 80,
+        "L0": 1.1,
+        "normalizedValue": 0.0,
+        "Q_BSD": 1.0,
+        "rankDeficit": false,
+        "rankExcess": false,
+        "criticalPoint": true,
+        "stable": false,
+        "unstable": true
+      }
+    ]
+  }
+}

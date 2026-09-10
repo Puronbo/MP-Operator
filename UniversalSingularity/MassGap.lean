@@ -20,7 +20,9 @@ def StructurePreservingOperations (α : Type*) : Prop :=
 
 /-- The mass gap element in a given type -/
 def mass_gap_element {α : Type*} [Inhabited α] : α :=
-  default  -- In a full implementation, this would be the specific mass gap element
+  default  -- The mass gap element in a given type. For specific types like RHData, this should be
+  -- the element representing the critical point (e.g., Q_RH = 1 for RHData). In a full
+  -- implementation, this would be defined via a typeclass or specific instance.
 
 /-- Scale-dependent behavior where integer j measures distance from mass gap (j=0).
    At j=0 (mass gap point), we apply the mass gap scaling. For j≠0, we reflect
@@ -31,7 +33,7 @@ def scale_behavior {α : Type*} [SMul ℝ α] (j : ℤ) (data : α) (C₀ : ℝ)
     C₀ • data
   else
     -- Away from mass gap (j≠0 on integer line): UV incompleteness
-    Classical.choose (fun _ : α => True)
+    (C₀ * ((j.abs : ℝ) + 1)) • data
 
 /-- An ECA rule embodies the reflection map with mass gap at integer point 0 if:
    - It suppresses output when neighborhood indicates virtual sector dominance (left-weighted)
@@ -43,16 +45,20 @@ def embodies_reflection_map_with_mass_gap (rule : ECARule) : Prop :=
   rule.tunable_physical_sector
 
 /-- Helper definitions for ECA rule analysis -/
+/-- Suppresses virtual sector when the neighborhood indicates all inactive (000), right-active only (001), or left-active only (100). -/
 def suppresses_virtual_sector (rule : ECARule) : Prop :=
   rule 0 = 0 ∧  -- 000: all inactive
   rule 1 = 0 ∧  -- 001: right-active only
   rule 4 = 0    -- 100: left-active only
 
+/-- Activates at the mass gap point when the neighborhood is center-active only (010). -/
 def activates_at_mass_gap_point (rule : ECARule) : Prop :=
   rule 2 = 1    -- 010: center-active only (mass gap point)
 
 def tunable_physical_sector (rule : ECARule) : Prop :=
-  True  -- The middle four outputs (011,101,110,111) can be freely chosen
+  -- The physical sector outputs (indices 3,5,6,7 corresponding to neighborhoods 011,101,110,111)
+  -- are not all the same, ensuring some variability in the physical sector.
+  ¬(rule (3 : Fin 8) = rule (5 : Fin 8) ∧ rule (5 : Fin 8) = rule (6 : Fin 8) ∧ rule (6 : Fin 8) = rule (7 : Fin 8))
 
 /-- Extended structure for ECA rule with lookup table -/
 structure ECARule where
@@ -125,7 +131,7 @@ def is_magnetization_zero (config : Fin 8 → Bool) : Prop :=
    and have zero magnetization points correspond to conditions supporting RH.
    The mass gap (j=0) is where virtual and physical sectors balance,
    leading to zero magnetization configurations that analogously represent zeta zeros. -/
-theorem mass_gap_rules_and_magnetization_zero {α : Type*} [VirtualSectorPred α] [PhysicalSectorPred α] (rule : ECARule) (h_rule : rule.embodies_reflection_map_with_mass_gap) :
+theorem mass_gap_rules_and_magnetization_zero {α : Type*} [VirtualSectorPred α] [PhysicalSectorPred α] (rule : ECARule) :
     GodForce α (mass_gap_element α) → ∃ (config : Fin 8 → Bool), is_magnetization_zero config := by
   intro h_god_force
   -- Example: The configuration [false, true, false, false, false, false, false, false]

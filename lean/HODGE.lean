@@ -1,3 +1,12 @@
+import Mathlib
+import Mathlib.Analysis.SpecialFunctions.Pow.Real
+import Mathlib.Analysis.SpecialFunctions.Log
+import Mathlib.Data.Real.Basic
+import Mathlib.Topology.Algebra.InfiniteSum
+import Mathlib.Topology.Instances.Real
+import Mathlib.MeasureTheory.Measure
+import UniversalSingularity.NavierStokes
+
 namespace UniversalSingularity.HodgeConjecture
 
 /-- Hodge Conjecture axiomatization using variations in families and Griffiths groups.
@@ -11,15 +20,6 @@ This file represents an axiomatic exploration of the Hodge Conjecture, drawing f
 All axioms are marked with `sorry` as placeholders for deeper mathematical insights.
 -/
 
-import Mathlib
-import Mathlib.Analysis.SpecialFunctions.Pow.Real
-import Mathlib.Analysis.SpecialFunctions.Log
-import Mathlib.Data.Real.Basic
-import Mathlib.Topology.Algebra.InfiniteSum
-import Mathlib.Topology.Instances.Real
-import Mathlib.MeasureTheory.Measure
-import UniversalSingularity.NavierStokes
-open UniversalSingularity.NavierStokes
 
 /-- Scale-dependent Hodge family block for frequency localization at scale ~2^j.
    This captures scale-dependent quantities essential in Hodge theory and the study of variations of Hodge structure.
@@ -191,7 +191,7 @@ def Unstable (fam : HodgeFamily) : Prop :=
    --
    Based on numerical exploration of the operator framework and Hodge-theoretic quantities,
    we establish that vanishing motivic cohomology implies griffithsSize < (1/2) * hodgeSpaceDim.
-  */
+   */
   theorem motivic_vanishing_controls_Griffiths {fam : HodgeFamily} (h : fam.motivicCohoSize = 0) :
       fam.Q_H < 1/2 := by
     have h₁ : fam.motivicCohoSize = 0 := h
@@ -303,7 +303,7 @@ def Unstable (fam : HodgeFamily) : Prop :=
       -- This contradicts h : fam.motivicCohoSize = 0
       have h₅₁₀ : fam.motivicCohoSize = 0 := h
       linarith
-  exact h₄
+    exact h₄
       -- Step 2: From griffithsSize < (1/2) * hodgeSpaceDim, deduce Q_H < 1/2 (when hodgeSpaceDim > 0).
       have h₄ : fam.Q_H < 1/2 := by
         by_cases hhodg : fam.hodgeSpaceDim = 0
@@ -391,8 +391,8 @@ def Unstable (fam : HodgeFamily) : Prop :=
             rw [div_lt_iff h₁₂]
             <;> nlinarith
           exact h₇
-      exact h₄
-    exact h₂
+        exact h₄
+      exact h₂
 
 -- Axiom: Connection to monodromy and period mapping.
    If the monodromy action is sufficiently unipotent (trace small), then

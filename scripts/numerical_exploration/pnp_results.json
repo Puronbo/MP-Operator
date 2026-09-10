@@ -1,0 +1,2898 @@
+{
+  "digits": [
+    0,
+    1,
+    2,
+    2,
+    6
+  ],
+  "timestamp": 972555980,
+  "schemes": {
+    "Scheme A (2+3 split)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "perm_num": 10226,
+        "n": 10,
+        "m": 226,
+        "alpha": 22.6,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 45.2,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "perm_num": 10262,
+        "n": 10,
+        "m": 262,
+        "alpha": 26.2,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 52.4,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "perm_num": 10622,
+        "n": 10,
+        "m": 622,
+        "alpha": 62.2,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 124.4,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 12026,
+        "n": 12,
+        "m": 26,
+        "alpha": 2.1666666666666665,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 4.333333333333333,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 12062,
+        "n": 12,
+        "m": 62,
+        "alpha": 5.166666666666667,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 10.333333333333334,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 12206,
+        "n": 12,
+        "m": 206,
+        "alpha": 17.166666666666668,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 34.333333333333336,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 12260,
+        "n": 12,
+        "m": 260,
+        "alpha": 21.666666666666668,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 43.333333333333336,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 12602,
+        "n": 12,
+        "m": 602,
+        "alpha": 50.166666666666664,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 100.33333333333333,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 12620,
+        "n": 12,
+        "m": 620,
+        "alpha": 51.666666666666664,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 103.33333333333333,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 16022,
+        "n": 16,
+        "m": 22,
+        "alpha": 1.375,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 2.75,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 16202,
+        "n": 16,
+        "m": 202,
+        "alpha": 12.625,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 25.25,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 16220,
+        "n": 16,
+        "m": 220,
+        "alpha": 13.75,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 27.5,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "perm_num": 20126,
+        "n": 20,
+        "m": 126,
+        "alpha": 6.3,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 12.6,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "perm_num": 20162,
+        "n": 20,
+        "m": 162,
+        "alpha": 8.1,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 16.2,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "perm_num": 20216,
+        "n": 20,
+        "m": 216,
+        "alpha": 10.8,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 21.6,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "perm_num": 20261,
+        "n": 20,
+        "m": 261,
+        "alpha": 13.05,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 26.1,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "perm_num": 20612,
+        "n": 20,
+        "m": 612,
+        "alpha": 30.6,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 61.2,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "perm_num": 20621,
+        "n": 20,
+        "m": 621,
+        "alpha": 31.05,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 62.1,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 21026,
+        "n": 21,
+        "m": 26,
+        "alpha": 1.2380952380952381,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 2.4761904761904763,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 21062,
+        "n": 21,
+        "m": 62,
+        "alpha": 2.9523809523809526,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 5.904761904761905,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 21206,
+        "n": 21,
+        "m": 206,
+        "alpha": 9.80952380952381,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 19.61904761904762,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 21260,
+        "n": 21,
+        "m": 260,
+        "alpha": 12.380952380952381,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 24.761904761904763,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 21602,
+        "n": 21,
+        "m": 602,
+        "alpha": 28.666666666666668,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 57.333333333333336,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 21620,
+        "n": 21,
+        "m": 620,
+        "alpha": 29.523809523809526,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 59.04761904761905,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "perm_num": 22016,
+        "n": 22,
+        "m": 16,
+        "alpha": 0.7272727272727273,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 1.4545454545454546,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "perm_num": 22061,
+        "n": 22,
+        "m": 61,
+        "alpha": 2.772727272727273,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 5.545454545454546,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "perm_num": 22106,
+        "n": 22,
+        "m": 106,
+        "alpha": 4.818181818181818,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.6,
+        "clustering": 0.2,
+        "Q_SAT": 9.636363636363637,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "perm_num": 22160,
+        "n": 22,
+        "m": 160,
+        "alpha": 7.2727272727272725,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 14.545454545454545,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "perm_num": 22601,
+        "n": 22,
+        "m": 601,
+        "alpha": 27.318181818181817,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 54.63636363636363,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "perm_num": 22610,
+        "n": 22,
+        "m": 610,
+        "alpha": 27.727272727272727,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 55.45454545454545,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 26012,
+        "n": 26,
+        "m": 12,
+        "alpha": 0.46153846153846156,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 0.9230769230769231,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 26021,
+        "n": 26,
+        "m": 21,
+        "alpha": 0.8076923076923077,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 1.6153846153846154,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 26102,
+        "n": 26,
+        "m": 102,
+        "alpha": 3.923076923076923,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 7.846153846153846,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 26120,
+        "n": 26,
+        "m": 120,
+        "alpha": 4.615384615384615,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 9.23076923076923,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 26201,
+        "n": 26,
+        "m": 201,
+        "alpha": 7.730769230769231,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 15.461538461538462,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 26210,
+        "n": 26,
+        "m": 210,
+        "alpha": 8.076923076923077,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 16.153846153846153,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "perm_num": 60122,
+        "n": 60,
+        "m": 122,
+        "alpha": 2.033333333333333,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 4.066666666666666,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "perm_num": 60212,
+        "n": 60,
+        "m": 212,
+        "alpha": 3.533333333333333,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 7.066666666666666,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "perm_num": 60221,
+        "n": 60,
+        "m": 221,
+        "alpha": 3.683333333333333,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 7.366666666666666,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 61022,
+        "n": 61,
+        "m": 22,
+        "alpha": 0.36065573770491804,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 0.7213114754098361,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 61202,
+        "n": 61,
+        "m": 202,
+        "alpha": 3.3114754098360657,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 6.622950819672131,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 61220,
+        "n": 61,
+        "m": 220,
+        "alpha": 3.6065573770491803,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 7.213114754098361,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 62012,
+        "n": 62,
+        "m": 12,
+        "alpha": 0.1935483870967742,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 0.3870967741935484,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 62021,
+        "n": 62,
+        "m": 21,
+        "alpha": 0.3387096774193548,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 0.6774193548387096,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 62102,
+        "n": 62,
+        "m": 102,
+        "alpha": 1.6451612903225807,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.2,
+        "clustering": 0.4,
+        "Q_SAT": 3.2903225806451615,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 62120,
+        "n": 62,
+        "m": 120,
+        "alpha": 1.935483870967742,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 3.870967741935484,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 62201,
+        "n": 62,
+        "m": 201,
+        "alpha": 3.2419354838709675,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.1,
+        "clustering": 0.2,
+        "Q_SAT": 6.483870967741935,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 62210,
+        "n": 62,
+        "m": 210,
+        "alpha": 3.3870967741935485,
+        "alpha_c": 0.5,
+        "hardness": 11,
+        "msgEntropy": 0.0,
+        "clustering": 0.0,
+        "Q_SAT": 6.774193548387097,
+        "stable": false,
+        "unstable": true
+      }
+    ],
+    "Scheme B (3+2 split)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "perm_num": 10226,
+        "n": 102,
+        "m": 26,
+        "alpha": 0.2549019607843137,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.7282913165266106,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "perm_num": 10262,
+        "n": 102,
+        "m": 62,
+        "alpha": 0.6078431372549019,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 1.7366946778711485,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "perm_num": 10622,
+        "n": 106,
+        "m": 22,
+        "alpha": 0.20754716981132076,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.42857142857142855,
+        "Q_SAT": 0.5929919137466307,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 12026,
+        "n": 120,
+        "m": 26,
+        "alpha": 0.21666666666666667,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 0.6190476190476191,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 12062,
+        "n": 120,
+        "m": 62,
+        "alpha": 0.5166666666666667,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.14285714285714285,
+        "Q_SAT": 1.4761904761904765,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 12206,
+        "n": 122,
+        "m": 6,
+        "alpha": 0.04918032786885246,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.7142857142857143,
+        "Q_SAT": 0.14051522248243561,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 12260,
+        "n": 122,
+        "m": 60,
+        "alpha": 0.4918032786885246,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.42857142857142855,
+        "Q_SAT": 1.405152224824356,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 12602,
+        "n": 126,
+        "m": 2,
+        "alpha": 0.015873015873015872,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.2857142857142857,
+        "Q_SAT": 0.045351473922902494,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 12620,
+        "n": 126,
+        "m": 20,
+        "alpha": 0.15873015873015872,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.45351473922902497,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 16022,
+        "n": 160,
+        "m": 22,
+        "alpha": 0.1375,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.3928571428571429,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 16202,
+        "n": 162,
+        "m": 2,
+        "alpha": 0.012345679012345678,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.5714285714285714,
+        "Q_SAT": 0.03527336860670194,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 16220,
+        "n": 162,
+        "m": 20,
+        "alpha": 0.12345679012345678,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.14285714285714285,
+        "Q_SAT": 0.3527336860670194,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "perm_num": 20126,
+        "n": 201,
+        "m": 26,
+        "alpha": 0.12935323383084577,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.14285714285714285,
+        "Q_SAT": 0.3695806680881308,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "perm_num": 20162,
+        "n": 201,
+        "m": 62,
+        "alpha": 0.30845771144278605,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.2857142857142857,
+        "Q_SAT": 0.8813077469793887,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "perm_num": 20216,
+        "n": 202,
+        "m": 16,
+        "alpha": 0.07920792079207921,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 0.22630834512022632,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "perm_num": 20261,
+        "n": 202,
+        "m": 61,
+        "alpha": 0.30198019801980197,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.42857142857142855,
+        "Q_SAT": 0.8628005657708628,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "perm_num": 20612,
+        "n": 206,
+        "m": 12,
+        "alpha": 0.05825242718446602,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.5714285714285714,
+        "Q_SAT": 0.1664355062413315,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "perm_num": 20621,
+        "n": 206,
+        "m": 21,
+        "alpha": 0.10194174757281553,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.2912621359223301,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 21026,
+        "n": 210,
+        "m": 26,
+        "alpha": 0.12380952380952381,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.7142857142857143,
+        "Q_SAT": 0.3537414965986395,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 21062,
+        "n": 210,
+        "m": 62,
+        "alpha": 0.29523809523809524,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.8435374149659864,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 21206,
+        "n": 212,
+        "m": 6,
+        "alpha": 0.02830188679245283,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.42857142857142855,
+        "Q_SAT": 0.08086253369272238,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 21260,
+        "n": 212,
+        "m": 60,
+        "alpha": 0.2830188679245283,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.14285714285714285,
+        "Q_SAT": 0.8086253369272237,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 21602,
+        "n": 216,
+        "m": 2,
+        "alpha": 0.009259259259259259,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 0.026455026455026454,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 21620,
+        "n": 216,
+        "m": 20,
+        "alpha": 0.09259259259259259,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.5714285714285714,
+        "Q_SAT": 0.26455026455026454,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "perm_num": 22016,
+        "n": 220,
+        "m": 16,
+        "alpha": 0.07272727272727272,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.14285714285714285,
+        "Q_SAT": 0.2077922077922078,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "perm_num": 22061,
+        "n": 220,
+        "m": 61,
+        "alpha": 0.2772727272727273,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.5714285714285714,
+        "Q_SAT": 0.7922077922077922,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "perm_num": 22106,
+        "n": 221,
+        "m": 6,
+        "alpha": 0.027149321266968326,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 0.07756948933419522,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "perm_num": 22160,
+        "n": 221,
+        "m": 60,
+        "alpha": 0.27149321266968324,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.7142857142857143,
+        "Q_SAT": 0.7756948933419522,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "perm_num": 22601,
+        "n": 226,
+        "m": 1,
+        "alpha": 0.004424778761061947,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.7142857142857143,
+        "Q_SAT": 0.012642225031605564,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "perm_num": 22610,
+        "n": 226,
+        "m": 10,
+        "alpha": 0.04424778761061947,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 0.12642225031605564,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 26012,
+        "n": 260,
+        "m": 12,
+        "alpha": 0.046153846153846156,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 0.13186813186813187,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 26021,
+        "n": 260,
+        "m": 21,
+        "alpha": 0.08076923076923077,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.2857142857142857,
+        "Q_SAT": 0.2307692307692308,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 26102,
+        "n": 261,
+        "m": 2,
+        "alpha": 0.007662835249042145,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.021893814997263273,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 26120,
+        "n": 261,
+        "m": 20,
+        "alpha": 0.07662835249042145,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.42857142857142855,
+        "Q_SAT": 0.21893814997263272,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 26201,
+        "n": 262,
+        "m": 1,
+        "alpha": 0.003816793893129771,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 0.010905125408942203,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 26210,
+        "n": 262,
+        "m": 10,
+        "alpha": 0.03816793893129771,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.2857142857142857,
+        "Q_SAT": 0.10905125408942204,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "perm_num": 60122,
+        "n": 601,
+        "m": 22,
+        "alpha": 0.036605657237936774,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.10458759210839079,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "perm_num": 60212,
+        "n": 602,
+        "m": 12,
+        "alpha": 0.019933554817275746,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.7142857142857143,
+        "Q_SAT": 0.05695301376364499,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "perm_num": 60221,
+        "n": 602,
+        "m": 21,
+        "alpha": 0.03488372093023256,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.0,
+        "Q_SAT": 0.09966777408637874,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 61022,
+        "n": 610,
+        "m": 22,
+        "alpha": 0.036065573770491806,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.42857142857142855,
+        "Q_SAT": 0.10304449648711946,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 61202,
+        "n": 612,
+        "m": 2,
+        "alpha": 0.0032679738562091504,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.14285714285714285,
+        "Q_SAT": 0.009337068160597574,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 61220,
+        "n": 612,
+        "m": 20,
+        "alpha": 0.032679738562091505,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.7142857142857143,
+        "Q_SAT": 0.09337068160597574,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 62012,
+        "n": 620,
+        "m": 12,
+        "alpha": 0.01935483870967742,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.055299539170506916,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 62021,
+        "n": 620,
+        "m": 21,
+        "alpha": 0.03387096774193549,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.14285714285714285,
+        "Q_SAT": 0.09677419354838711,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 62102,
+        "n": 621,
+        "m": 2,
+        "alpha": 0.00322061191626409,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.7142857142857143,
+        "Q_SAT": 0.009201748332183115,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 62120,
+        "n": 621,
+        "m": 20,
+        "alpha": 0.0322061191626409,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.2857142857142857,
+        "Q_SAT": 0.09201748332183114,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 62201,
+        "n": 622,
+        "m": 1,
+        "alpha": 0.001607717041800643,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.8571428571428571,
+        "Q_SAT": 0.004593477262287552,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 62210,
+        "n": 622,
+        "m": 10,
+        "alpha": 0.01607717041800643,
+        "alpha_c": 0.35,
+        "hardness": 0,
+        "msgEntropy": 0.36666666666666664,
+        "clustering": 0.14285714285714285,
+        "Q_SAT": 0.045934772622875514,
+        "stable": true,
+        "unstable": false
+      }
+    ],
+    "Scheme C (timestamp-based)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "perm_num": 10226,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "perm_num": 10262,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "perm_num": 10622,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 12026,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 12062,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 12206,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 12260,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 12602,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 12620,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 16022,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 16202,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 16220,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "perm_num": 20126,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "perm_num": 20162,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "perm_num": 20216,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "perm_num": 20261,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "perm_num": 20612,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "perm_num": 20621,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 21026,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 21062,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 21206,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 21260,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 21602,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 21620,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "perm_num": 22016,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "perm_num": 22061,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "perm_num": 22106,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "perm_num": 22160,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "perm_num": 22601,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "perm_num": 22610,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 26012,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 26021,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 26102,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 26120,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 26201,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 26210,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "perm_num": 60122,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "perm_num": 60212,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "perm_num": 60221,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 61022,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 61202,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 61220,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 62012,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 62021,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 62102,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 62120,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 62201,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 62210,
+        "n": 1,
+        "m": 980,
+        "alpha": 980.0,
+        "alpha_c": 0.45,
+        "hardness": 80,
+        "msgEntropy": 0.55,
+        "clustering": 0.0,
+        "Q_SAT": 2177.777777777778,
+        "stable": false,
+        "unstable": true
+      }
+    ]
+  }
+}
