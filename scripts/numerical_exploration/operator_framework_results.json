@@ -1,0 +1,1212 @@
+{
+  "parameter_exploration": [
+    {
+      "type": "standard",
+      "discriminant": 8.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.1715728752538097*x) + C2*exp(-5.82842712474619*x)",
+      "roots": [
+        -0.1715728752538097,
+        -5.82842712474619
+      ],
+      "Q_parameter": 0.16666666666666666,
+      "mass_gap_condition": false,
+      "damping_ratio": 3.0,
+      "alpha": 0.5,
+      "beta": 0.5,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 3.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.2679491924311228*x) + C2*exp(-3.732050807568877*x)",
+      "roots": [
+        -0.2679491924311228,
+        -3.732050807568877
+      ],
+      "Q_parameter": 0.25,
+      "mass_gap_condition": false,
+      "damping_ratio": 2.0,
+      "alpha": 0.5,
+      "beta": 0.5,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 0.0,
+      "solution_type": "critically_damped",
+      "solution_form": "(C1 + C2*x)*exp(-1.0*x)",
+      "roots": [
+        -1.0,
+        -1.0
+      ],
+      "Q_parameter": 0.5,
+      "mass_gap_condition": true,
+      "damping_ratio": 1.0,
+      "alpha": 0.5,
+      "beta": 0.5,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -1.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(1.0*x) + C2*sin(1.0*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 0.5,
+      "beta": 0.5,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 0.0,
+      "solution_type": "critically_damped",
+      "solution_form": "(C1 + C2*x)*exp(1.0*x)",
+      "roots": [
+        1.0,
+        1.0
+      ],
+      "Q_parameter": 0.5,
+      "mass_gap_condition": true,
+      "damping_ratio": 1.0,
+      "alpha": 0.5,
+      "beta": 0.5,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 3.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(3.732050807568877*x) + C2*exp(0.2679491924311228*x)",
+      "roots": [
+        3.732050807568877,
+        0.2679491924311228
+      ],
+      "Q_parameter": 0.25,
+      "mass_gap_condition": false,
+      "damping_ratio": 2.0,
+      "alpha": 0.5,
+      "beta": 0.5,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 8.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(5.82842712474619*x) + C2*exp(0.1715728752538097*x)",
+      "roots": [
+        5.82842712474619,
+        0.1715728752538097
+      ],
+      "Q_parameter": 0.16666666666666666,
+      "mass_gap_condition": false,
+      "damping_ratio": 3.0,
+      "alpha": 0.5,
+      "beta": 0.5,
+      "lambda": 3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 7.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.3542486889354093*x) + C2*exp(-5.645751311064591*x)",
+      "roots": [
+        -0.3542486889354093,
+        -5.645751311064591
+      ],
+      "Q_parameter": 0.23570226039551587,
+      "mass_gap_condition": false,
+      "damping_ratio": 2.1213203435596424,
+      "alpha": 0.5,
+      "beta": 1.0,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 2.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.5857864376269049*x) + C2*exp(-3.414213562373095*x)",
+      "roots": [
+        -0.5857864376269049,
+        -3.414213562373095
+      ],
+      "Q_parameter": 0.3535533905932738,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.414213562373095,
+      "alpha": 0.5,
+      "beta": 1.0,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -1.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-1.0*x) * [C1*cos(1.0*x) + C2*sin(1.0*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.7071067811865476,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.7071067811865475,
+      "alpha": 0.5,
+      "beta": 1.0,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -2.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(1.4142135623730951*x) + C2*sin(1.4142135623730951*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 0.5,
+      "beta": 1.0,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -1.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(1.0*x) * [C1*cos(1.0*x) + C2*sin(1.0*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.7071067811865476,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.7071067811865475,
+      "alpha": 0.5,
+      "beta": 1.0,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 2.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(3.414213562373095*x) + C2*exp(0.5857864376269049*x)",
+      "roots": [
+        3.414213562373095,
+        0.5857864376269049
+      ],
+      "Q_parameter": 0.3535533905932738,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.414213562373095,
+      "alpha": 0.5,
+      "beta": 1.0,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 7.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(5.645751311064591*x) + C2*exp(0.3542486889354093*x)",
+      "roots": [
+        5.645751311064591,
+        0.3542486889354093
+      ],
+      "Q_parameter": 0.23570226039551587,
+      "mass_gap_condition": false,
+      "damping_ratio": 2.1213203435596424,
+      "alpha": 0.5,
+      "beta": 1.0,
+      "lambda": 3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 5.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.7639320225002102*x) + C2*exp(-5.23606797749979*x)",
+      "roots": [
+        -0.7639320225002102,
+        -5.23606797749979
+      ],
+      "Q_parameter": 0.3333333333333333,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.5,
+      "alpha": 0.5,
+      "beta": 2.0,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 0.0,
+      "solution_type": "critically_damped",
+      "solution_form": "(C1 + C2*x)*exp(-2.0*x)",
+      "roots": [
+        -2.0,
+        -2.0
+      ],
+      "Q_parameter": 0.5,
+      "mass_gap_condition": true,
+      "damping_ratio": 1.0,
+      "alpha": 0.5,
+      "beta": 2.0,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -3.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-1.0*x) * [C1*cos(1.7320508075688772*x) + C2*sin(1.7320508075688772*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.5,
+      "alpha": 0.5,
+      "beta": 2.0,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -4.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(2.0*x) + C2*sin(2.0*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 0.5,
+      "beta": 2.0,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -3.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(1.0*x) * [C1*cos(1.7320508075688772*x) + C2*sin(1.7320508075688772*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.5,
+      "alpha": 0.5,
+      "beta": 2.0,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 0.0,
+      "solution_type": "critically_damped",
+      "solution_form": "(C1 + C2*x)*exp(2.0*x)",
+      "roots": [
+        2.0,
+        2.0
+      ],
+      "Q_parameter": 0.5,
+      "mass_gap_condition": true,
+      "damping_ratio": 1.0,
+      "alpha": 0.5,
+      "beta": 2.0,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 5.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(5.23606797749979*x) + C2*exp(0.7639320225002102*x)",
+      "roots": [
+        5.23606797749979,
+        0.7639320225002102
+      ],
+      "Q_parameter": 0.3333333333333333,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.5,
+      "alpha": 0.5,
+      "beta": 2.0,
+      "lambda": 3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 7.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.17712434446770464*x) + C2*exp(-2.8228756555322954*x)",
+      "roots": [
+        -0.17712434446770464,
+        -2.8228756555322954
+      ],
+      "Q_parameter": 0.23570226039551587,
+      "mass_gap_condition": false,
+      "damping_ratio": 2.1213203435596424,
+      "alpha": 1.0,
+      "beta": 0.5,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 2.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.2928932188134524*x) + C2*exp(-1.7071067811865475*x)",
+      "roots": [
+        -0.2928932188134524,
+        -1.7071067811865475
+      ],
+      "Q_parameter": 0.3535533905932738,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.414213562373095,
+      "alpha": 1.0,
+      "beta": 0.5,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -1.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.5*x) * [C1*cos(0.5*x) + C2*sin(0.5*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.7071067811865476,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.7071067811865475,
+      "alpha": 1.0,
+      "beta": 0.5,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -2.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(0.7071067811865476*x) + C2*sin(0.7071067811865476*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 1.0,
+      "beta": 0.5,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -1.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.5*x) * [C1*cos(0.5*x) + C2*sin(0.5*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.7071067811865476,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.7071067811865475,
+      "alpha": 1.0,
+      "beta": 0.5,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 2.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(1.7071067811865475*x) + C2*exp(0.2928932188134524*x)",
+      "roots": [
+        1.7071067811865475,
+        0.2928932188134524
+      ],
+      "Q_parameter": 0.3535533905932738,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.414213562373095,
+      "alpha": 1.0,
+      "beta": 0.5,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 7.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(2.8228756555322954*x) + C2*exp(0.17712434446770464*x)",
+      "roots": [
+        2.8228756555322954,
+        0.17712434446770464
+      ],
+      "Q_parameter": 0.23570226039551587,
+      "mass_gap_condition": false,
+      "damping_ratio": 2.1213203435596424,
+      "alpha": 1.0,
+      "beta": 0.5,
+      "lambda": 3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 5.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.3819660112501051*x) + C2*exp(-2.618033988749895*x)",
+      "roots": [
+        -0.3819660112501051,
+        -2.618033988749895
+      ],
+      "Q_parameter": 0.3333333333333333,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.5,
+      "alpha": 1.0,
+      "beta": 1.0,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 0.0,
+      "solution_type": "critically_damped",
+      "solution_form": "(C1 + C2*x)*exp(-1.0*x)",
+      "roots": [
+        -1.0,
+        -1.0
+      ],
+      "Q_parameter": 0.5,
+      "mass_gap_condition": true,
+      "damping_ratio": 1.0,
+      "alpha": 1.0,
+      "beta": 1.0,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -3.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.5*x) * [C1*cos(0.8660254037844386*x) + C2*sin(0.8660254037844386*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.5,
+      "alpha": 1.0,
+      "beta": 1.0,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -4.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(1.0*x) + C2*sin(1.0*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 1.0,
+      "beta": 1.0,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -3.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.5*x) * [C1*cos(0.8660254037844386*x) + C2*sin(0.8660254037844386*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.5,
+      "alpha": 1.0,
+      "beta": 1.0,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 0.0,
+      "solution_type": "critically_damped",
+      "solution_form": "(C1 + C2*x)*exp(1.0*x)",
+      "roots": [
+        1.0,
+        1.0
+      ],
+      "Q_parameter": 0.5,
+      "mass_gap_condition": true,
+      "damping_ratio": 1.0,
+      "alpha": 1.0,
+      "beta": 1.0,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 5.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(2.618033988749895*x) + C2*exp(0.3819660112501051*x)",
+      "roots": [
+        2.618033988749895,
+        0.3819660112501051
+      ],
+      "Q_parameter": 0.3333333333333333,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.5,
+      "alpha": 1.0,
+      "beta": 1.0,
+      "lambda": 3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 1.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-1.0*x) + C2*exp(-2.0*x)",
+      "roots": [
+        -1.0,
+        -2.0
+      ],
+      "Q_parameter": 0.47140452079103173,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.0606601717798212,
+      "alpha": 1.0,
+      "beta": 2.0,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -4.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-1.0*x) * [C1*cos(1.0*x) + C2*sin(1.0*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.7071067811865476,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.7071067811865475,
+      "alpha": 1.0,
+      "beta": 2.0,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -7.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.5*x) * [C1*cos(1.3228756555322954*x) + C2*sin(1.3228756555322954*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.4142135623730951,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.35355339059327373,
+      "alpha": 1.0,
+      "beta": 2.0,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -8.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(1.4142135623730951*x) + C2*sin(1.4142135623730951*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 1.0,
+      "beta": 2.0,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -7.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.5*x) * [C1*cos(1.3228756555322954*x) + C2*sin(1.3228756555322954*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.4142135623730951,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.35355339059327373,
+      "alpha": 1.0,
+      "beta": 2.0,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -4.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(1.0*x) * [C1*cos(1.0*x) + C2*sin(1.0*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.7071067811865476,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.7071067811865475,
+      "alpha": 1.0,
+      "beta": 2.0,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 1.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(2.0*x) + C2*exp(1.0*x)",
+      "roots": [
+        2.0,
+        1.0
+      ],
+      "Q_parameter": 0.47140452079103173,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.0606601717798212,
+      "alpha": 1.0,
+      "beta": 2.0,
+      "lambda": 3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 5.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.19098300562505255*x) + C2*exp(-1.3090169943749475*x)",
+      "roots": [
+        -0.19098300562505255,
+        -1.3090169943749475
+      ],
+      "Q_parameter": 0.3333333333333333,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.5,
+      "alpha": 2.0,
+      "beta": 0.5,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 0.0,
+      "solution_type": "critically_damped",
+      "solution_form": "(C1 + C2*x)*exp(-0.5*x)",
+      "roots": [
+        -0.5,
+        -0.5
+      ],
+      "Q_parameter": 0.5,
+      "mass_gap_condition": true,
+      "damping_ratio": 1.0,
+      "alpha": 2.0,
+      "beta": 0.5,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -3.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.25*x) * [C1*cos(0.4330127018922193*x) + C2*sin(0.4330127018922193*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.5,
+      "alpha": 2.0,
+      "beta": 0.5,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -4.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(0.5*x) + C2*sin(0.5*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 2.0,
+      "beta": 0.5,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -3.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.25*x) * [C1*cos(0.4330127018922193*x) + C2*sin(0.4330127018922193*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.5,
+      "alpha": 2.0,
+      "beta": 0.5,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 0.0,
+      "solution_type": "critically_damped",
+      "solution_form": "(C1 + C2*x)*exp(0.5*x)",
+      "roots": [
+        0.5,
+        0.5
+      ],
+      "Q_parameter": 0.5,
+      "mass_gap_condition": true,
+      "damping_ratio": 1.0,
+      "alpha": 2.0,
+      "beta": 0.5,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 5.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(1.3090169943749475*x) + C2*exp(0.19098300562505255*x)",
+      "roots": [
+        1.3090169943749475,
+        0.19098300562505255
+      ],
+      "Q_parameter": 0.3333333333333333,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.5,
+      "alpha": 2.0,
+      "beta": 0.5,
+      "lambda": 3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 1.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(-0.5*x) + C2*exp(-1.0*x)",
+      "roots": [
+        -0.5,
+        -1.0
+      ],
+      "Q_parameter": 0.47140452079103173,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.0606601717798212,
+      "alpha": 2.0,
+      "beta": 1.0,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -4.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.5*x) * [C1*cos(0.5*x) + C2*sin(0.5*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.7071067811865476,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.7071067811865475,
+      "alpha": 2.0,
+      "beta": 1.0,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -7.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.25*x) * [C1*cos(0.6614378277661477*x) + C2*sin(0.6614378277661477*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.4142135623730951,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.35355339059327373,
+      "alpha": 2.0,
+      "beta": 1.0,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -8.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(0.7071067811865476*x) + C2*sin(0.7071067811865476*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 2.0,
+      "beta": 1.0,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -7.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.25*x) * [C1*cos(0.6614378277661477*x) + C2*sin(0.6614378277661477*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.4142135623730951,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.35355339059327373,
+      "alpha": 2.0,
+      "beta": 1.0,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -4.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.5*x) * [C1*cos(0.5*x) + C2*sin(0.5*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.7071067811865476,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.7071067811865475,
+      "alpha": 2.0,
+      "beta": 1.0,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": 1.0,
+      "solution_type": "overdamped",
+      "solution_form": "C1*exp(1.0*x) + C2*exp(0.5*x)",
+      "roots": [
+        1.0,
+        0.5
+      ],
+      "Q_parameter": 0.47140452079103173,
+      "mass_gap_condition": false,
+      "damping_ratio": 1.0606601717798212,
+      "alpha": 2.0,
+      "beta": 1.0,
+      "lambda": 3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -7.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.75*x) * [C1*cos(0.6614378277661477*x) + C2*sin(0.6614378277661477*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.6666666666666666,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.75,
+      "alpha": 2.0,
+      "beta": 2.0,
+      "lambda": -3.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -12.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.5*x) * [C1*cos(0.8660254037844386*x) + C2*sin(0.8660254037844386*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.5,
+      "alpha": 2.0,
+      "beta": 2.0,
+      "lambda": -2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -15.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(-0.25*x) * [C1*cos(0.9682458365518543*x) + C2*sin(0.9682458365518543*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 2.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.25,
+      "alpha": 2.0,
+      "beta": 2.0,
+      "lambda": -1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -16.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.0*x) * [C1*cos(1.0*x) + C2*sin(1.0*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": Infinity,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.0,
+      "alpha": 2.0,
+      "beta": 2.0,
+      "lambda": 0.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -15.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.25*x) * [C1*cos(0.9682458365518543*x) + C2*sin(0.9682458365518543*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 2.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.25,
+      "alpha": 2.0,
+      "beta": 2.0,
+      "lambda": 1.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -12.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.5*x) * [C1*cos(0.8660254037844386*x) + C2*sin(0.8660254037844386*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 1.0,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.5,
+      "alpha": 2.0,
+      "beta": 2.0,
+      "lambda": 2.0
+    },
+    {
+      "type": "standard",
+      "discriminant": -7.0,
+      "solution_type": "underdamped",
+      "solution_form": "exp(0.75*x) * [C1*cos(0.6614378277661477*x) + C2*sin(0.6614378277661477*x)]",
+      "roots": [
+        {
+          "real": NaN,
+          "imag": NaN
+        },
+        {
+          "real": NaN,
+          "imag": NaN
+        }
+      ],
+      "Q_parameter": 0.6666666666666666,
+      "mass_gap_condition": false,
+      "damping_ratio": 0.75,
+      "alpha": 2.0,
+      "beta": 2.0,
+      "lambda": 3.0
+    }
+  ],
+  "exploration_timestamp": "2026-09-10T07:45:30",
+  "notes": "Numerical exploration of operator framework and connections to mass gap and Navier-Stokes"
+}
