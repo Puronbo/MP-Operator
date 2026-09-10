@@ -1,0 +1,2370 @@
+{
+  "digits": [
+    0,
+    1,
+    2,
+    2,
+    6
+  ],
+  "timestamp": 972555980,
+  "schemes": {
+    "Scheme A (2+3 split)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "perm_num": 10226,
+        "griffithsSize": 10,
+        "hodgeSpaceDim": 226,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -4,
+        "Q_H": 0.04424778761061947,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "perm_num": 10262,
+        "griffithsSize": 10,
+        "hodgeSpaceDim": 262,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.03816793893129771,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "perm_num": 10622,
+        "griffithsSize": 10,
+        "hodgeSpaceDim": 622,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.01607717041800643,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 12026,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 26,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -4,
+        "Q_H": 0.46153846153846156,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 12062,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 62,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.1935483870967742,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 12206,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 206,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -4,
+        "Q_H": 0.05825242718446602,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 12260,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 260,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.046153846153846156,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 12602,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 602,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.019933554817275746,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 12620,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 620,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.01935483870967742,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 16022,
+        "griffithsSize": 16,
+        "hodgeSpaceDim": 22,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.7272727272727273,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 16202,
+        "griffithsSize": 16,
+        "hodgeSpaceDim": 202,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.07920792079207921,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 16220,
+        "griffithsSize": 16,
+        "hodgeSpaceDim": 220,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.07272727272727272,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "perm_num": 20126,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 126,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -4,
+        "Q_H": 0.15873015873015872,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "perm_num": 20162,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 162,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.12345679012345678,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "perm_num": 20216,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 216,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 6,
+        "Q_H": 0.09259259259259259,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "perm_num": 20261,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 261,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 0.07662835249042145,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "perm_num": 20612,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 612,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 2,
+        "Q_H": 0.032679738562091505,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "perm_num": 20621,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 621,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 0.0322061191626409,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 21026,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 26,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -4,
+        "Q_H": 0.8076923076923077,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 21062,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 62,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.3387096774193548,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 21206,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 206,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -4,
+        "Q_H": 0.10194174757281553,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 21260,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 260,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.08076923076923077,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 21602,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 602,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.03488372093023256,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 21620,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 620,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.03387096774193549,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "perm_num": 22016,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 16,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 6,
+        "Q_H": 1.375,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "perm_num": 22061,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 61,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 0.36065573770491804,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "perm_num": 22106,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 106,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -4,
+        "Q_H": 0.20754716981132076,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "perm_num": 22160,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 160,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.1375,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "perm_num": 22601,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 601,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 0.036605657237936774,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "perm_num": 22610,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 610,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 0,
+        "Q_H": 0.036065573770491806,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 26012,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 12,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 2,
+        "Q_H": 2.1666666666666665,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 26021,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 21,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 1.2380952380952381,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 26102,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 102,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.2549019607843137,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 26120,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 120,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.21666666666666667,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 26201,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 201,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 0.12935323383084577,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 26210,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 210,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 0,
+        "Q_H": 0.12380952380952381,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "perm_num": 60122,
+        "griffithsSize": 60,
+        "hodgeSpaceDim": 122,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.4918032786885246,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "perm_num": 60212,
+        "griffithsSize": 60,
+        "hodgeSpaceDim": 212,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 2,
+        "Q_H": 0.2830188679245283,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "perm_num": 60221,
+        "griffithsSize": 60,
+        "hodgeSpaceDim": 221,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 0.27149321266968324,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 61022,
+        "griffithsSize": 61,
+        "hodgeSpaceDim": 22,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 2.772727272727273,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 61202,
+        "griffithsSize": 61,
+        "hodgeSpaceDim": 202,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.30198019801980197,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 61220,
+        "griffithsSize": 61,
+        "hodgeSpaceDim": 220,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.2772727272727273,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 62012,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 12,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 2,
+        "Q_H": 5.166666666666667,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 62021,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 21,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 2.9523809523809526,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 62102,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 102,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -8,
+        "Q_H": 0.6078431372549019,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 62120,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 120,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -10,
+        "Q_H": 0.5166666666666667,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 62201,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 201,
+        "motivicCohoSize": 11,
+        "monodromyTrace": -9,
+        "Q_H": 0.30845771144278605,
+        "stable": true,
+        "unstable": false
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 62210,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 210,
+        "motivicCohoSize": 11,
+        "monodromyTrace": 0,
+        "Q_H": 0.29523809523809524,
+        "stable": true,
+        "unstable": false
+      }
+    ],
+    "Scheme B (3+2 split)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "griffithsSize": 102,
+        "hodgeSpaceDim": 26,
+        "Q_H": 3.923076923076923,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "griffithsSize": 102,
+        "hodgeSpaceDim": 62,
+        "Q_H": 1.6451612903225807,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "griffithsSize": 106,
+        "hodgeSpaceDim": 22,
+        "Q_H": 4.818181818181818,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "griffithsSize": 120,
+        "hodgeSpaceDim": 26,
+        "Q_H": 4.615384615384615,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "griffithsSize": 120,
+        "hodgeSpaceDim": 62,
+        "Q_H": 1.935483870967742,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "griffithsSize": 122,
+        "hodgeSpaceDim": 6,
+        "Q_H": 20.333333333333332,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "griffithsSize": 122,
+        "hodgeSpaceDim": 60,
+        "Q_H": 2.033333333333333,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "griffithsSize": 126,
+        "hodgeSpaceDim": 2,
+        "Q_H": 63.0,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "griffithsSize": 126,
+        "hodgeSpaceDim": 20,
+        "Q_H": 6.3,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "griffithsSize": 160,
+        "hodgeSpaceDim": 22,
+        "Q_H": 7.2727272727272725,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "griffithsSize": 162,
+        "hodgeSpaceDim": 2,
+        "Q_H": 81.0,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "griffithsSize": 162,
+        "hodgeSpaceDim": 20,
+        "Q_H": 8.1,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "griffithsSize": 201,
+        "hodgeSpaceDim": 26,
+        "Q_H": 7.730769230769231,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "griffithsSize": 201,
+        "hodgeSpaceDim": 62,
+        "Q_H": 3.2419354838709675,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "griffithsSize": 202,
+        "hodgeSpaceDim": 16,
+        "Q_H": 12.625,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "griffithsSize": 202,
+        "hodgeSpaceDim": 61,
+        "Q_H": 3.3114754098360657,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "griffithsSize": 206,
+        "hodgeSpaceDim": 12,
+        "Q_H": 17.166666666666668,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "griffithsSize": 206,
+        "hodgeSpaceDim": 21,
+        "Q_H": 9.80952380952381,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "griffithsSize": 210,
+        "hodgeSpaceDim": 26,
+        "Q_H": 8.076923076923077,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "griffithsSize": 210,
+        "hodgeSpaceDim": 62,
+        "Q_H": 3.3870967741935485,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "griffithsSize": 212,
+        "hodgeSpaceDim": 6,
+        "Q_H": 35.333333333333336,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "griffithsSize": 212,
+        "hodgeSpaceDim": 60,
+        "Q_H": 3.533333333333333,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "griffithsSize": 216,
+        "hodgeSpaceDim": 2,
+        "Q_H": 108.0,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "griffithsSize": 216,
+        "hodgeSpaceDim": 20,
+        "Q_H": 10.8,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "griffithsSize": 220,
+        "hodgeSpaceDim": 16,
+        "Q_H": 13.75,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "griffithsSize": 220,
+        "hodgeSpaceDim": 61,
+        "Q_H": 3.6065573770491803,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "griffithsSize": 221,
+        "hodgeSpaceDim": 6,
+        "Q_H": 36.833333333333336,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "griffithsSize": 221,
+        "hodgeSpaceDim": 60,
+        "Q_H": 3.683333333333333,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "griffithsSize": 226,
+        "hodgeSpaceDim": 1,
+        "Q_H": 226.0,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "griffithsSize": 226,
+        "hodgeSpaceDim": 10,
+        "Q_H": 22.6,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "griffithsSize": 260,
+        "hodgeSpaceDim": 12,
+        "Q_H": 21.666666666666668,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "griffithsSize": 260,
+        "hodgeSpaceDim": 21,
+        "Q_H": 12.380952380952381,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "griffithsSize": 261,
+        "hodgeSpaceDim": 2,
+        "Q_H": 130.5,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "griffithsSize": 261,
+        "hodgeSpaceDim": 20,
+        "Q_H": 13.05,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "griffithsSize": 262,
+        "hodgeSpaceDim": 1,
+        "Q_H": 262.0,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "griffithsSize": 262,
+        "hodgeSpaceDim": 10,
+        "Q_H": 26.2,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "griffithsSize": 601,
+        "hodgeSpaceDim": 22,
+        "Q_H": 27.318181818181817,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "griffithsSize": 602,
+        "hodgeSpaceDim": 12,
+        "Q_H": 50.166666666666664,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "griffithsSize": 602,
+        "hodgeSpaceDim": 21,
+        "Q_H": 28.666666666666668,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "griffithsSize": 610,
+        "hodgeSpaceDim": 22,
+        "Q_H": 27.727272727272727,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "griffithsSize": 612,
+        "hodgeSpaceDim": 2,
+        "Q_H": 306.0,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "griffithsSize": 612,
+        "hodgeSpaceDim": 20,
+        "Q_H": 30.6,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "griffithsSize": 620,
+        "hodgeSpaceDim": 12,
+        "Q_H": 51.666666666666664,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "griffithsSize": 620,
+        "hodgeSpaceDim": 21,
+        "Q_H": 29.523809523809526,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "griffithsSize": 621,
+        "hodgeSpaceDim": 2,
+        "Q_H": 310.5,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "griffithsSize": 621,
+        "hodgeSpaceDim": 20,
+        "Q_H": 31.05,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "griffithsSize": 622,
+        "hodgeSpaceDim": 1,
+        "Q_H": 622.0,
+        "stable": false,
+        "unstable": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "griffithsSize": 622,
+        "hodgeSpaceDim": 10,
+        "Q_H": 62.2,
+        "stable": false,
+        "unstable": true
+      }
+    ],
+    "Scheme C (timestamp-based)": [
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          2,
+          6
+        ],
+        "perm_num": 10226,
+        "griffithsSize": 10,
+        "hodgeSpaceDim": 226,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -4,
+        "Q_H": 0.04424778761061947,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          2,
+          6,
+          2
+        ],
+        "perm_num": 10262,
+        "griffithsSize": 10,
+        "hodgeSpaceDim": 262,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.03816793893129771,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          0,
+          6,
+          2,
+          2
+        ],
+        "perm_num": 10622,
+        "griffithsSize": 10,
+        "hodgeSpaceDim": 622,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.01607717041800643,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 12026,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 26,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -4,
+        "Q_H": 0.46153846153846156,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 12062,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 62,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.1935483870967742,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 12206,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 206,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -4,
+        "Q_H": 0.05825242718446602,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 12260,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 260,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.046153846153846156,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 12602,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 602,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.019933554817275746,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          2,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 12620,
+        "griffithsSize": 12,
+        "hodgeSpaceDim": 620,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.01935483870967742,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 16022,
+        "griffithsSize": 16,
+        "hodgeSpaceDim": 22,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.7272727272727273,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 16202,
+        "griffithsSize": 16,
+        "hodgeSpaceDim": 202,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.07920792079207921,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          1,
+          6,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 16220,
+        "griffithsSize": 16,
+        "hodgeSpaceDim": 220,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.07272727272727272,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          2,
+          6
+        ],
+        "perm_num": 20126,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 126,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -4,
+        "Q_H": 0.15873015873015872,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          1,
+          6,
+          2
+        ],
+        "perm_num": 20162,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 162,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.12345679012345678,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          1,
+          6
+        ],
+        "perm_num": 20216,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 216,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 6,
+        "Q_H": 0.09259259259259259,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          2,
+          6,
+          1
+        ],
+        "perm_num": 20261,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 261,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 0.07662835249042145,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          1,
+          2
+        ],
+        "perm_num": 20612,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 612,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 2,
+        "Q_H": 0.032679738562091505,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          0,
+          6,
+          2,
+          1
+        ],
+        "perm_num": 20621,
+        "griffithsSize": 20,
+        "hodgeSpaceDim": 621,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 0.0322061191626409,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          2,
+          6
+        ],
+        "perm_num": 21026,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 26,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -4,
+        "Q_H": 0.8076923076923077,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          0,
+          6,
+          2
+        ],
+        "perm_num": 21062,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 62,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.3387096774193548,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          0,
+          6
+        ],
+        "perm_num": 21206,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 206,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -4,
+        "Q_H": 0.10194174757281553,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          2,
+          6,
+          0
+        ],
+        "perm_num": 21260,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 260,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.08076923076923077,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          0,
+          2
+        ],
+        "perm_num": 21602,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 602,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.03488372093023256,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          1,
+          6,
+          2,
+          0
+        ],
+        "perm_num": 21620,
+        "griffithsSize": 21,
+        "hodgeSpaceDim": 620,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.03387096774193549,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          1,
+          6
+        ],
+        "perm_num": 22016,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 16,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 6,
+        "Q_H": 1.375,
+        "stable": false,
+        "unstable": true,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          0,
+          6,
+          1
+        ],
+        "perm_num": 22061,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 61,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 0.36065573770491804,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          0,
+          6
+        ],
+        "perm_num": 22106,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 106,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -4,
+        "Q_H": 0.20754716981132076,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          1,
+          6,
+          0
+        ],
+        "perm_num": 22160,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 160,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.1375,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          0,
+          1
+        ],
+        "perm_num": 22601,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 601,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 0.036605657237936774,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          2,
+          6,
+          1,
+          0
+        ],
+        "perm_num": 22610,
+        "griffithsSize": 22,
+        "hodgeSpaceDim": 610,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 0,
+        "Q_H": 0.036065573770491806,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 26012,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 12,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 2,
+        "Q_H": 2.1666666666666665,
+        "stable": false,
+        "unstable": true,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 26021,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 21,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 1.2380952380952381,
+        "stable": false,
+        "unstable": true,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 26102,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 102,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.2549019607843137,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 26120,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 120,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.21666666666666667,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 26201,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 201,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 0.12935323383084577,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          2,
+          6,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 26210,
+        "griffithsSize": 26,
+        "hodgeSpaceDim": 210,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 0,
+        "Q_H": 0.12380952380952381,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          1,
+          2,
+          2
+        ],
+        "perm_num": 60122,
+        "griffithsSize": 60,
+        "hodgeSpaceDim": 122,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.4918032786885246,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          1,
+          2
+        ],
+        "perm_num": 60212,
+        "griffithsSize": 60,
+        "hodgeSpaceDim": 212,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 2,
+        "Q_H": 0.2830188679245283,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          0,
+          2,
+          2,
+          1
+        ],
+        "perm_num": 60221,
+        "griffithsSize": 60,
+        "hodgeSpaceDim": 221,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 0.27149321266968324,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          0,
+          2,
+          2
+        ],
+        "perm_num": 61022,
+        "griffithsSize": 61,
+        "hodgeSpaceDim": 22,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 2.772727272727273,
+        "stable": false,
+        "unstable": true,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          0,
+          2
+        ],
+        "perm_num": 61202,
+        "griffithsSize": 61,
+        "hodgeSpaceDim": 202,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.30198019801980197,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          1,
+          2,
+          2,
+          0
+        ],
+        "perm_num": 61220,
+        "griffithsSize": 61,
+        "hodgeSpaceDim": 220,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.2772727272727273,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          1,
+          2
+        ],
+        "perm_num": 62012,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 12,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 2,
+        "Q_H": 5.166666666666667,
+        "stable": false,
+        "unstable": true,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          0,
+          2,
+          1
+        ],
+        "perm_num": 62021,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 21,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 2.9523809523809526,
+        "stable": false,
+        "unstable": true,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          0,
+          2
+        ],
+        "perm_num": 62102,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 102,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -8,
+        "Q_H": 0.6078431372549019,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          1,
+          2,
+          0
+        ],
+        "perm_num": 62120,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 120,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -10,
+        "Q_H": 0.5166666666666667,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          0,
+          1
+        ],
+        "perm_num": 62201,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 201,
+        "motivicCohoSize": 0,
+        "monodromyTrace": -9,
+        "Q_H": 0.30845771144278605,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      },
+      {
+        "permutation": [
+          6,
+          2,
+          2,
+          1,
+          0
+        ],
+        "perm_num": 62210,
+        "griffithsSize": 62,
+        "hodgeSpaceDim": 210,
+        "motivicCohoSize": 0,
+        "monodromyTrace": 0,
+        "Q_H": 0.29523809523809524,
+        "stable": true,
+        "unstable": false,
+        "motivic_zero": true
+      }
+    ]
+  }
+}
